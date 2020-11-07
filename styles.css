@@ -1,0 +1,44 @@
+body	{ 
+height: 100%;
+background-color: #fab040; }
+.yläosa {  
+background-color: #5fd089; }
+.alaosa { position: static;
+	width: 100%;
+	height: 100px;
+ }
+.col {
+	background-color: #5fd089;
+	color: #000000;
+	padding: 10px;
+	margin: 2px;
+	text-align: center;
+	border: 2px solid black;
+	}
+.turhake { border: none; margin: 0px;}
+.ala { border: none; background-color: #fab040; }
+
+#logo {width:100px; height:30px; 
+	border: none; background-color: #5fd089;}
+#kotikuva { width: 100%; height: 250px; }
+section	{
+	box-sizing: border-box;
+	margin: 60px;
+	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+}
+article	{
+	box-sizing: border-box;
+	margin: 5px;
+	padding: 3px;
+	width: 30%;
+}
+aside	{
+	width: 35%;
+}
+p { 
+text-align: center; }
+hr { 
+width:100%; height:2px; background-color: #aa50a6;}
+

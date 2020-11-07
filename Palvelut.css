@@ -1,0 +1,31 @@
+body	{ 
+height: 100%;
+background-color: #fab040; }
+.yläosa {  
+background-color: #5fd089; }
+.alaosa { position: static;
+	width: 100%;
+	height: 100px;
+ }
+.col {
+	background-color: #5fd089;
+	color: #000000;
+	padding: 10px;
+	margin: 2px;
+	text-align: center;
+	border: 2px solid black;
+	}
+.turhake { border: none; margin: 0px; }
+.ala { border: none; background-color: #fab040; }
+#logo {width:100px; height:30px; 
+	border: none; background-color: #5fd089;}
+hr { 
+width:100%; height:2px; background-color: #aa50a6;}
+.Palvelu { 
+margin: 0px; }
+.Tieto { margin: 0px; border: none; background-color: #fab040; }
+.fit-image{
+width: 100%;
+object-fit: cover;
+height: 100px;
+}
