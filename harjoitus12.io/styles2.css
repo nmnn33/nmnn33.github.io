@@ -1,1 +1,30 @@
 .navbar { background-color: #ef9797; }
+.navbar-text { font-size: 15px;}
+body { height: 100%;
+	background-color: pink; 
+	font-family: Droid Sans, arial, serif;}
+.container.col-sm-12.footer { border: 3px solid pink;
+		text-align: center;
+		background-color: #de7470;}
+.col-lg-4 { margin-bottom: 3px; 
+	border: 1px solid #ef9797;
+	font-size: 14px;
+	text-align: center;}
+.col-lg-4.mikael { margin-bottom: 3px; 
+	border: none;
+	font-size: 14px;}
+h1 { text-align: center;
+	font-size: 18px;}
+.video:hover { border: 3px solid blue; }
+.video { width: 50%; height: 315px; position: relative; left: 25% }
+.desc {
+  padding: 5px;
+text-align: center; }
+.strong { text-shadow: 0 0 5px #FF0000;
+		font-size: 24px; }
+#vaikeakuva { height: 140px; width: 50%; 
+	border: 2px solid #de7470;
+	padding: 1px;
+	box-shadow: 2px 4px 12px 4px #888888}
+.vaikeasuomi { position: relative; left: 25%; }
+#Mikael { height: 350px; width: 90%; padding: 5px;}
