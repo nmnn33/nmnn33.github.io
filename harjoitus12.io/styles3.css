@@ -1,1 +1,26 @@
 .navbar { background-color: #ef9797; }
+.navbar-text { font-size: 15px;}
+body { height: 100%;
+	background-color: pink; 
+	font-family: Droid Sans, arial, serif;}
+.container.col-sm-12.footer { border: 3px solid pink;
+		text-align: center;
+		background-color: #de7470;}
+.container.musa { position: relative; left: 25%; padding: 3px; } 
+.desc { padding: 5px; }
+.desc2 { padding: 5px; text-shadow: 0 0 3px #FF0000;
+	text-align: center; }
+#nohopep { width: 50%; height: 140px; transition: height 2s;}
+#nohopep:hover { height: 500px; }
+.col-lg-6 {  text-align: center;
+	margin-bottom: 3px;	
+	border: 1px solid #ef9797;
+	font-size: 14px;
+	text-align: center;}
+p { font-family: Helvetica; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px; }
+.container.finaali { }
+.col.kuvio {  } 
+.col.asia { border: 4px dashed #ef9797; 
+	border-right: none;
+	border-left: none;}
+

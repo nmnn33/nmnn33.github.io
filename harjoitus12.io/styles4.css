@@ -1,1 +1,10 @@
 .navbar { background-color: #ef9797; }
+.navbar-text { font-size: 15px;}
+body { height: 100%;
+	background-color: pink;
+	font-family: Droid Sans, arial, serif;	}
+.container.col-sm-12.footer { border: 3px solid pink;
+		text-align: center;
+		background-color: #de7470;}
+h1 { font-family: Consolas; font-size: 23px; font-style: italic; font-variant: normal; font-weight: 700; line-height: 34.5px; }
+.lomake { border: 5px solid #de7470; }

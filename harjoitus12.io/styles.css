@@ -1,20 +1,25 @@
 body { height: 100%;
-	background-color: pink; }
+	background-color: pink;
+font-family: Droid Sans, arial, serif;	}
 .navbar { background-color: #ef9797; }
-.container-fluid { border: 1px solid black; height: 900px;}
+.navbar-text { font-size: 9px;}
+.container-fluid { }
 .row { flex-wrap: wrap; }
 .col-lg-4 { height: 500px;
 	padding: 1px 0px 1px 0px; 
-	border: 1px solid red;
+	border: 1px solid pink;
 	font-size: 14px;
 	}
-div.col-lg-4:hover { border: 3px solid blue; }
+.div.col-lg-4:hover { border: 3px solid blue; }
+.container.col-sm-12.footer { border: 3px solid pink;
+		text-align: center;
+		background-color: #de7470;}
 .fitext { font-size: 30px;
 		text-shadow: 0 0 5px #FF0000; }
 .jptext { font-size: 19px;
 	text-shadow: 0 0 3px #FF0000;}
 .chtext { font-size: 19px;
 text-shadow: 0 0 3px #FF0000; }
-#suomikuva { width: 75%; height: 100%}
+#suomikuva { width: 75%; height: 100% }
 #japanikuva { width: 75%; height: 100%}
 #kiinakuva { width: 75%; height: 100%}
