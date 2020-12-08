@@ -10,7 +10,7 @@ font-family: Droid Sans, arial, serif;	}
 	border: 1px solid pink;
 	font-size: 14px;
 	}
-.div.col-lg-4:hover { border: 3px solid blue; }
+.col-lg-4:hover { border: 3px solid blue; }
 .container.col-sm-12.footer { border: 3px solid pink;
 		text-align: center;
 		background-color: #de7470;}
