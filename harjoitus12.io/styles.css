@@ -7,7 +7,6 @@ font-family: Droid Sans, arial, serif;	}
 .row { flex-wrap: wrap; }
 .col-lg-4 { height: 500px;
 	padding: 1px 0px 1px 0px; 
-	border: 1px solid pink;
 	font-size: 14px;
 	}
 .col-lg-4:hover { border: 3px solid blue; }
